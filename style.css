@@ -1,0 +1,12 @@
+.buttons {
+	gap: 40px;
+	padding: 100px;
+	display: flex;
+	justify-content: center;
+}
+.score-card {
+	display: flex;
+	gap: 150px;
+	justify-content: center;
+	text-align: center;
+}
